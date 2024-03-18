@@ -1,4 +1,4 @@
-module github.com/ank809/Go-Gin
+module github.com/ank809/Gin-Go
 
 go 1.22.0
 
